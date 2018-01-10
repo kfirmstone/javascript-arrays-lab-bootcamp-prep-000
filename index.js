@@ -20,4 +20,6 @@ function destructivelyRemoveLastKitten(kitens){
    return array
   }
 
-function 
+function destructivelyRemoveFirstKitten(kittens){
+  
+}
