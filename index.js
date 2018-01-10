@@ -15,17 +15,17 @@ function destructivelyPrependKitten(name){
   return kittens
 }
 
-function destructivelyRemoveLastKitten(kittens){
+function destructivelyRemoveLastKitten(){
    kittens.pop()
    return kittens
   }
 
-function destructivelyRemoveFirstKitten(kittens){
+function destructivelyRemoveFirstKitten(){
   kittens.shift()
    return kittens
 }
 
-function removeFirstKitten(kittens){
+function removeFirstKitten(){
   return kittens.slice(1)
 }
 
