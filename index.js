@@ -24,3 +24,5 @@ function destructivelyRemoveFirstKitten(kittens){
   array.shift()
    return array
 }
+
+function 
